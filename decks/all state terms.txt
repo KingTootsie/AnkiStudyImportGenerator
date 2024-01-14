@@ -1,0 +1,157 @@
+[DECK]
+accelerando--gradually growing faster
+accidental--chromatic alteration of a note from the key signature until the next bar line
+ad libitum or a piacere--at pleasure, at will
+a due--for two parts, for two parts
+affetuoso--tenderly, with feeling
+all breve--2/2 time, cut time
+allargando--getting slower and louder
+amoroso--with love, with warm feeling
+animato or con anima--lively, animated, spirited
+appassionato or passione--passionate, fervent
+assai--much, very
+a tempo--return to the original tempo
+attacca--continue without a pause
+bravura--great technical skill, virtuosity
+brillante--sparkling, spirited
+cadenza--a brilliant solo, often found at the end of a movement or a piece
+calmando or calmato--quieting down, subsiding
+cantando or cantabile--in a singling style, lyrical
+capriccioso--fanciful, freely
+coda--a concluding passage added to the form proper
+con--with
+con brio--vigorously, with fire
+con forza--powerful, loud
+con fuoco--with fire, passionately
+con sordino--with mute
+con spirito or spiritoso--spirited, lively
+cresendo--becoming louder
+da capo--from the beginning
+da segno--from the sign
+decresendo--becoming softer
+diatonic--scalewise
+diminuendo--becoming softer
+divisi--divided parts where there is normally one
+dolce--sweet, gentle
+doppio movimento--twice as fast
+double flat--lower by one full step
+double sharp--raise by one full step
+dynamics--the level of loudness
+pianississimo--very, very soft
+pianissimo--very soft
+piano--soft
+mezzo piano--medium soft
+mezzo forte--medium loud
+forte--loud
+fortissimo--very loud
+fortississimo--very, very loud
+e, ed, et--and
+enharmonic--a different spelling of the same pitch or chord
+espressivo--with feeling, with expression
+etude--a study or exercise focusing on a particular technical or musical problem
+fermata--a pause or hold
+finale--the last movement of a multi-movement work
+fine--the end
+forzando--a strong accent
+giocoso--humorous, playful
+giusto--exact, appropriate
+glissando--a glide from one note to the next
+grazioso--graceful
+interval--pitch difference between two notes
+key signature--sharps or flats placed at the beginning of a selection indicating
+its key
+largemente--broadly
+legato--smooth, even, without breaks between notes
+l'istesso tempo--at the same tempo
+loco--return to normal position
+maestoso--with dignity
+marcato--accented, stressed
+marcia--march
+meno--less
+molto--much, very
+morendo--fading away
+mosso or moto--moved, motion
+non--no, do not
+nuance--subtle shading in style
+ossia--an alternative version
+pesante--weighty, ponderous
+piu--more
+pochissimo--as little as possible
+poco a poco--little by little
+pomposo--stately, majestic
+quasi--almost, as if
+rallentando--becoming slower
+ritardando--becoming slower
+ritenuto--immediately slower
+rinforzando--a sudden accent
+rubato--free use of accel. and rit. within a measure without altering the duration
+of the measure as a whole
+sans or senza--without
+scherzando--playfully
+segue--continue without pausing
+sempre--always, throughout
+sforzando--a sudden accent
+simile--in the same manner
+soli--a section solo, a group of solists
+solo--a part for one performer
+sonore--resounding, loud
+sordino--mute
+sostenuto--sustained
+staccato--detached
+stringendo--To gradually gain energy by increasing tempo
+subito--suddently, at once
+tacet--be silent
+tempo--rate of speed
+grave--solemn and very very slow
+largo--very slow
+adagio, lento larghetto--slow
+andante--moderately slow
+andantino--sligtly faster than andante
+moderato--moderate neither fast nor slow
+allegretto--moderately fast
+allegro--fast and lively
+vivo, vivace--very fast and intense
+presto--the fastest conventional tempo
+prestissimo--as fast as possible
+tenuto--held, sustained
+tranquillo--quiet, peaceful
+trill--a rapid alternation between the written note and the diatonic second above it
+troppo--too much
+tutti--all, with all performers
+un, una, uno--one
+unison--together on the same part or in octaves
+Major Scales--diatonic scales with half-steps between 3-4 and 7-8
+Natural Minor Scales--diatonic scales with half-steps between 2-3 and 5-6
+Harmonic Minor Scales--natural minor scales with the 7th scale degree raised a half-step. This adds a half-step between 7-8 and an interval of 1 1/2 steps between 6-7
+Melodic Minor Scale--natural minor scales where the 6th and 7th scale degrees are raised one half step in the ascending form creating half steps between 2-3 and 7-8. These notes are lowered to their natural state in the descending scale, making it identical to the natural minor
+Chromatic Scale--scales which proceed by half-step from the first note to the last note
+C Major--no sharps or flats
+a minor--no sharps of flats
+F Major--1 flat
+Bflat Major--2 flats
+Eflat Major--3 flats
+Aflat Major--4 flats
+Dflat Major--5 flats
+Gflat Major--6 flats
+Cflat Major--7 flats
+d minor--1 flat
+g minor--2 flats
+c minor--3 flats
+f minor--4 flats
+bflat minor--5 flats
+eflat minor--6 flats
+aflat minor--7 flats
+G Major--1 sharp
+D Major--2 shaps
+A Major--3 sharps
+E Major--4 sharps
+B Major--5 sharps
+Fsharp Major--6 sharps
+Csharp Major--7 sharps
+e minor--1 sharp
+b minor--2 sharps
+fsharp minor--3 sharps
+csharp minor--4 sharps
+gsharp minor--5 sharps
+dsharp minor--6 sharps
+asharp minor--7 sharps 
